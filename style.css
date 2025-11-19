@@ -1,0 +1,18 @@
+h1, h2 {
+    width: 20%;
+    text-align: center;
+    margin: 20px auto;
+    background-color: rgb(80, 130, 180);
+    color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+h2{
+    width: 60%;
+    padding: 20px;
+}
+
+img {
+    margin: 20px auto;
+    display: block;
+    border-radius: 50px;
+}
